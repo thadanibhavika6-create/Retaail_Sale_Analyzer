@@ -24,7 +24,8 @@ A clean, menu-driven **command-line NumPy toolkit** built in Python — create a
 **NumPy Analyzer** is an interactive Python application that lets you explore the core concepts of the `numpy` library through a simple, user-friendly menu. From creating 1D, 2D, and 3D arrays to performing mathematical operations, searching, sorting, filtering, and statistical analysis — everything is built on a clean, well-structured OOP foundation.
 
 ---
-
+<img width="1536" height="1024" alt="ChatGPT Image Aug 26, 2026, 10_46_44 AM" src="https://github.com/user-attachments/assets/b2d1b22e-ba66-4c88-9db6-c49f13844737" />
+---
 ## 🎯 Features
 
 | # | Feature | Description |
@@ -118,6 +119,11 @@ Just pick a number and start exploring your array! 🎉
 - [ ] Export results to CSV/Excel
 - [ ] Graphical visualization with Matplotlib
 - [ ] Support for random array generation
+
+---
+# ▶️ Sample output
+
+<img width="1024" height="1536" alt="ChatGPT Image Aug 26, 2026, 10_42_30 AM" src="https://github.com/user-attachments/assets/6afa8869-867f-4c25-80d2-5eef972be11c" />
 
 ---
 # 👩‍💻Author
