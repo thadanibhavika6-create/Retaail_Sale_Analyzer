@@ -121,10 +121,13 @@ Just pick a number and start exploring your array! 🎉
 - [ ] Support for random array generation
 
 ---
-# ▶️ Sample output
+# 🖼️ Sample output
 
 <img width="1024" height="1536" alt="ChatGPT Image Aug 26, 2026, 10_42_30 AM" src="https://github.com/user-attachments/assets/6afa8869-867f-4c25-80d2-5eef972be11c" />
 
+---
+# ▶️ video link
+[Watch_Video_Here](https://drive.google.com/file/d/19q-O9IFnmBvK0KlhTNsT2sU7R7qgr9HR/view?usp=drive_link)
 ---
 # 👩‍💻Author
 **Bhavika Thadani
