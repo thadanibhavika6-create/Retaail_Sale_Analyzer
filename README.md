@@ -141,6 +141,6 @@ Pull requests are welcome! If you find a bug or have an idea for a new feature, 
 
 ### ⭐ If you liked this project, don't forget to give it a star!
 
-*Made with 🐍 Python and a lot of ☕*
+*Made with 🐍 Python and a lot of ❤️*
 
 </div>
