@@ -19,14 +19,6 @@ A clean, menu-driven **command-line NumPy toolkit** built in Python — create a
 
 ---
 
-## ✨ Live Lines
-
-> 💡 *"An array is just data waiting to tell its story."*
-> 📊 *"Behind every dataset lies a pattern worth discovering."*
-> ⚡ *"One array, endless possibilities."*
-
----
-
 ## 📌 About the Project
 
 **NumPy Analyzer** is an interactive Python application that lets you explore the core concepts of the `numpy` library through a simple, user-friendly menu. From creating 1D, 2D, and 3D arrays to performing mathematical operations, searching, sorting, filtering, and statistical analysis — everything is built on a clean, well-structured OOP foundation.
